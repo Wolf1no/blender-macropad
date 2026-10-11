@@ -110,6 +110,6 @@ After this i realized 2 mistakes:
 
 This meant one and only one thing, I have to do it all over again... Because it's not ever worth fixing.
 
-**tl;dr:** Messed up first PCB layout attempt, I will have to start over again.
+**tl;dr:** Messed up first PCB layout attempt, I will have to start over again
 
-**Next:** Re-doing  this layout from scratch.
+**Next:** Re-doing  this layout from scratch
