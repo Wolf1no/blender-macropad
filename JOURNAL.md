@@ -109,7 +109,7 @@ Then i drew a board outline, 60x70 (which later turned out to be huge mistake), 
 
 After this i realized 2 mistakes:
 1. I forgot to re-Update PCB from schematics, which meant I still had wrong switches.
-2. Obvious, DRS with 54 errors definitely means something is wrong.
+2. Obvious, DRC with 54 errors definitely means something is wrong.
 
 This meant one and only one thing, I have to do it all over again... Because it's not ever worth fixing.
 
