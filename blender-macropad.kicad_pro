@@ -525,7 +525,7 @@
       "idf": "",
       "netlist": "",
       "plot": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "blender-macropad.dsn",
       "step": "",
       "vrml": ""
     },
