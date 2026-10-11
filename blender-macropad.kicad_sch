@@ -3252,7 +3252,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 135.89 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -3436,7 +3436,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 166.37 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -3620,7 +3620,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 135.89 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3700,7 +3700,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 151.13 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3780,7 +3780,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 151.13 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -4726,7 +4726,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 135.89 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -4988,7 +4988,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 166.37 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -5172,7 +5172,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 181.61 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -5356,7 +5356,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 151.13 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -5436,7 +5436,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 166.37 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -5620,7 +5620,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 181.61 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -5804,7 +5804,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 181.61 119.38 0)
 			(hide yes)
 			(show_name no)
