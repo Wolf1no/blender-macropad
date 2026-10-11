@@ -18,7 +18,7 @@
 2. [2026-10-08 – ## Completing schematic](#2026-10-08-completing-schematic)
 3. [2026-10-11 – # First try on PCB layout](#2026-10-11-first-try-on-pcb-layout)
 4. [2026-10-11 – # PCB layout vol 2 xdd](#2026-10-11-pcb-layout-vol-2-xdd)
-5. [2026-10-11 – # Routing finished, it's starting to look real](#2026-10-11-routing-finished-its-starting-to-look-real)
+5. [2026-10-11 – # Routing finished, it's starting to look real!](#2026-10-11-routing-finished-its-starting-to-look-real)
 6. [2026-10-11 – # Firmware and KMK setup](#2026-10-11-firmware-and-kmk-setup)
 
 ## Design
@@ -139,11 +139,11 @@ This time I placed componets using grid snapping. (correctly using). I made a cu
 
 **Next:** Routing and final DRC
 
-### 2026-10-11 – # Routing finished, it's starting to look real
+### 2026-10-11 – # Routing finished, it's starting to look real!
 
 **2h**
 
-# Routing finished, it's starting to look real
+# Routing finished, it's starting to look real!
 
 Now it's time to connect everything together. This was the most tedious part so far, I had to figure out which layer to route on (front, back side) and how to avoid crossing routes/traces.
 
@@ -157,7 +157,7 @@ After routing key matrix I found out that I can't just connect everything on one
 I also ran DRC test at the end, just to make sure there are no error. There were a few clearance issues, but i fixed those quickly by just moving routes around and final run was clean.
 
 ![Screenshot 2026-10-11 at 11.29.05 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/pC9MgqhFa4fAOSZoioYCl67uOSWzXzxI/b9e99d6bcc6588ac41a0e59878914f4db82f4fedbbf47289f16a3bf33d9a0419.png)
-### *Finished routing and clean DRS*
+### *Finished routing and clean DRC*
 
 I also checked 3D viewer and it looks good.
 
