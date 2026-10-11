@@ -1,3 +1,5 @@
+<img width="1197" height="643" alt="Screenshot 2026-10-12 at 1 20 19 AM" src="https://github.com/user-attachments/assets/6361f233-d3f8-461d-9d3a-ae043af83765" />
+
 # Blender Macropad
 
 Custom 12 key macropad with rotary encoder and OLED display, designed for better Blender workflow. Made for Half Life PCB project.
