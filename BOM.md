@@ -15,9 +15,8 @@
 | [Pro Micro RP2040](https://www.aliexpress.com/item/1005006967374887.html?spm=a2g0o.productlist.main.1.294928f2c7MBV4&algo_pvid=5010f4df-1c73-497b-86e9-70ac0cec1381&algo_exp_id=5010f4df-1c73-497b-86e9-70ac0cec1381-0&pdp_ext_f=%7B%22order%22%3A%229935%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005006967374887%22%2C%22orig_item_id%22%3A%221005009890367599%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%219.15%214.39%21%21%2160.96%2129.25%21%40210398e917917614818084083e0d84%2112000038886039687%21sea%21CZ%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aea64d167%3Bm03_new_user%3A-29895&curPageLogUid=KmmPOPYRl3J3&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006967374887%7C_p_origin_prod%3A1005009890367599) | Main microcontroller | 1 | $4.39 | $4.39 | [Aliexpress](https://www.aliexpress.com/item/1005006967374887.html?spm=a2g0o.productlist.main.1.294928f2c7MBV4&algo_pvid=5010f4df-1c73-497b-86e9-70ac0cec1381&algo_exp_id=5010f4df-1c73-497b-86e9-70ac0cec1381-0&pdp_ext_f=%7B%22order%22%3A%229935%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005006967374887%22%2C%22orig_item_id%22%3A%221005009890367599%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%219.15%214.39%21%21%2160.96%2129.25%21%40210398e917917614818084083e0d84%2112000038886039687%21sea%21CZ%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aea64d167%3Bm03_new_user%3A-29895&curPageLogUid=KmmPOPYRl3J3&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006967374887%7C_p_origin_prod%3A1005009890367599) |
 | [Outemu Switches](https://www.aliexpress.com/item/1005007345651159.html) | Key switches | 1 | $5.69 | $5.69 | [Aliexpress](https://www.aliexpress.com/item/1005007345651159.html) |
 | [Plum axis rotary encoder](https://www.aliexpress.com/item/1005008500548926.html) | Zoom/scroll/volume control | 1 | $3.59 | $3.59 | [Aliexpress](https://www.aliexpress.com/item/1005008500548926.html) |
-| [10k 0805 Resistor](https://www.aliexpress.com/item/1005007966254438.html) | Encoder pull-ups | 1 | $0.33 | $0.33 | [Aliexpress](https://www.aliexpress.com/item/1005007966254438.html) |
-| **Parts subtotal** | — | — | — | **$14.00** | — |
+| **Parts subtotal** | — | — | — | **$13.67** | — |
 | **Tax & shipping** | — | — | — | **$0.60** | — |
-| **Total** | — | — | — | **$14.60** | — |
+| **Total** | — | — | — | **$14.27** | — |
 
-$15.40 left of the tier's funding.
+$15.73 left of the tier's funding.
