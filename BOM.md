@@ -20,7 +20,7 @@
 | [10k 0805 Resistor](https://www.aliexpress.com/item/1005007966254438.html) | Encoder pull-ups | 1 | $0.33 | $0.33 | [Aliexpress](https://www.aliexpress.com/item/1005007966254438.html) |
 | [D0-35 1N4148 High-speed Switching Diodes](https://www.aliexpress.com/item/1005002339916163.html) | Key matrix anti-ghosting | 1 | $1.08 | $1.08 | [Aliexpress](https://www.aliexpress.com/item/1005002339916163.html) |
 | **Parts subtotal** | — | — | — | **$23.81** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$23.81** | — |
+| **Tax & shipping** | — | — | — | **$6.13** | — |
+| **Total** | — | — | — | **$29.94** | — |
 
-$6.19 left of the tier's funding.
+$0.06 left of the tier's funding.
