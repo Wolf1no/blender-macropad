@@ -20,7 +20,7 @@
 | [10k 0805 Resistor](https://www.aliexpress.com/item/1005007966254438.html) | Encoder pull-ups | 1 | $0.33 | $0.33 | [Aliexpress](https://www.aliexpress.com/item/1005007966254438.html) |
 | [1N4148 IN4148 DO-35 High-speed Switching Diodes](https://www.aliexpress.com/item/1005005435418695.html?spm=a2g0o.cart.0.0.646f38daDNzDLt&mp=1&pdp_npi=6%40dis%21USD%21USD+1.94%21USD+1.94%21%21USD+1.94%21%21%21%40210381f017917707211417206e0ee2%2112000033065505577%21ct%21CZ%21-1%21%211%210%21) | Key matrix anti-ghosting | 1 | $1.94 | $1.94 | [Aliexpress](https://www.aliexpress.com/item/1005005435418695.html?spm=a2g0o.cart.0.0.646f38daDNzDLt&mp=1&pdp_npi=6%40dis%21USD%21USD+1.94%21USD+1.94%21%21USD+1.94%21%21%21%40210381f017917707211417206e0ee2%2112000033065505577%21ct%21CZ%21-1%21%211%210%21) |
 | **Parts subtotal** | — | — | — | **$24.67** | — |
-| **Tax & shipping** | — | — | — | **$0.60** | — |
-| **Total** | — | — | — | **$25.27** | — |
+| **Tax & shipping** | — | — | — | **$30.00** | — |
+| **Total** | — | — | — | **$54.67** | — |
 
-$4.73 left of the tier's funding.
+**$24.67 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
