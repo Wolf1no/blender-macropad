@@ -2115,22 +2115,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(no_connect
-		(at 118.11 114.3)
-		(uuid "510e8dbe-e6b2-41fa-b999-e58aee5911c0")
-	)
-	(no_connect
-		(at 118.11 116.84)
-		(uuid "55423ed0-fcc6-4224-a8ad-82c98909df76")
-	)
-	(no_connect
-		(at 118.11 111.76)
-		(uuid "6a0f44b4-8d76-4ed8-8e78-e2cc56ea9fef")
-	)
-	(no_connect
-		(at 118.11 109.22)
-		(uuid "98cbdce9-bcb1-46ef-992d-b310eeb2d92f")
-	)
 	(wire
 		(pts
 			(xy 130.81 81.28) (xy 130.81 83.82)
@@ -2371,7 +2355,127 @@
 		)
 		(uuid "fef1c60d-f498-4b83-8187-2310f8d2443a")
 	)
-	(label "OLED_MOSI"
+	(no_connect
+		(at 105.41 88.9)
+		(uuid "80b07f76-256f-4ee0-a30d-92cd6c559921")
+	)
+	(no_connect
+		(at 105.41 91.44)
+		(uuid "123fb739-ec1f-44af-b47b-5b9a2fb5bdca")
+	)
+	(label "GND"
+		(at 105.41 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b8626719-21cd-4ef3-979d-4685b4b172a2")
+	)
+	(label "GND"
+		(at 105.41 96.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0445e153-f854-4657-ab4d-c23e2fe993cb")
+	)
+	(label "ROW0"
+		(at 105.41 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e29fd2d1-8586-4693-bcc2-eded21bb3892")
+	)
+	(label "ROW1"
+		(at 105.41 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "228d4347-6e5b-469c-b505-ea57ff68773f")
+	)
+	(label "ROW2"
+		(at 105.41 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f72ed6fb-4efb-4828-abc0-51b1d3983ba7")
+	)
+	(label "COL0"
+		(at 105.41 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7c33aba5-9c71-41ff-9724-d78efd91ba1c")
+	)
+	(label "COL1"
+		(at 105.41 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "faf6461a-2778-480a-a8dd-6f0d833d2b0e")
+	)
+	(label "COL2"
+		(at 105.41 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0de7c550-3f17-477b-b559-b4f8552add5e")
+	)
+	(label "COL3"
+		(at 105.41 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "278f84db-b786-42c8-98f3-87f0e1efb2db")
+	)
+	(no_connect
+		(at 105.41 116.84)
+		(uuid "0a0044ef-5e7b-4ab5-901a-e0198c03040b")
+	)
+	(no_connect
+		(at 118.11 88.9)
+		(uuid "c18c31b0-d76b-479d-918a-0cba2ab138ae")
+	)
+	(label "GND"
+		(at 118.11 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bf06763a-5fa3-42e4-bb27-3412f8c66baa")
+	)
+	(no_connect
+		(at 118.11 93.98)
+		(uuid "13adb8e8-7cc6-4f64-af7f-03e7ddc732a2")
+	)
+	(label "VCC"
 		(at 118.11 96.52 0)
 		(effects
 			(font
@@ -2379,7 +2483,157 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "01697775-e7b6-4011-bd64-d2e665f27fdb")
+		(uuid "310a6fef-675d-4eb4-9d8c-1cf1129fa1f4")
+	)
+	(label "ENC_SW"
+		(at 118.11 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7d1703d4-8874-4c5f-b28e-49a3b72fdeb0")
+	)
+	(label "ENC_B"
+		(at 118.11 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6c16caf2-df35-4e89-ac0e-9b203318e8c2")
+	)
+	(label "ENC_A"
+		(at 118.11 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "edd60c13-9a22-4e92-9927-f8c9876d5219")
+	)
+	(label "OLED_RST"
+		(at 118.11 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "18db46fe-a696-4623-bf12-6aba4f81fbb7")
+	)
+	(label "OLED_CLK"
+		(at 118.11 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bbb2cc94-8f64-4a04-b7cb-183fd3bf6669")
+	)
+	(label "OLED_DC"
+		(at 118.11 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cfa4ee60-ff38-4477-9c5e-4bc45ce6e78f")
+	)
+	(label "OLED_MOSI"
+		(at 118.11 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "88f901cb-2f35-4cae-8272-ee69d27d6d23")
+	)
+	(label "OLED_CS"
+		(at 118.11 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "de4da270-1571-4f5e-bf12-a1ac0d6a5aa7")
+	)
+	(label "GND"
+		(at 135.89 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "05bfc9d7-226e-4b2b-9b29-a8bf043cbaae")
+	)
+	(label "VCC"
+		(at 135.89 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2d372eab-7062-4c53-bd14-ba1274396a6d")
+	)
+	(label "OLED_CLK"
+		(at 135.89 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "542d3e36-a449-4591-aac8-78f6672715f7")
+	)
+	(label "OLED_MOSI"
+		(at 135.89 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "144eda0c-8b7c-4b12-9b8c-71614d5efdbc")
+	)
+	(label "OLED_RST"
+		(at 135.89 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bfee0280-d9ad-4f62-942f-82e12b199291")
+	)
+	(label "OLED_DC"
+		(at 135.89 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "aadff337-eb05-490f-9df2-fabcc7e0ea93")
+	)
+	(label "OLED_CS"
+		(at 135.89 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d80fd4e2-230e-4011-9895-606d96bcce13")
 	)
 	(label "COL3"
 		(at 186.69 91.44 0)
@@ -2451,26 +2705,6 @@
 		)
 		(uuid "1d4bf0f9-a1e8-448f-ae77-10b882454644")
 	)
-	(label "OLED_CS"
-		(at 118.11 101.6 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "20c0617b-9ecb-4b56-be2d-fd78ff879afa")
-	)
-	(label "OLED_CLK"
-		(at 118.11 99.06 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "294711bc-9046-446e-8995-c1ba4c8f678a")
-	)
 	(label "ENC_A"
 		(at 111.76 72.39 0)
 		(effects
@@ -2490,16 +2724,6 @@
 			(justify left bottom)
 		)
 		(uuid "42e6aaf3-f857-470a-9246-bd40da40d895")
-	)
-	(label "ENC_SW"
-		(at 118.11 93.98 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4859901c-fefd-4228-aa4d-37014b260d59")
 	)
 	(label "COL1"
 		(at 156.21 135.89 0)
@@ -2521,26 +2745,6 @@
 		)
 		(uuid "565d2b03-8e93-4864-9866-65f33fde5a32")
 	)
-	(label "ROW0"
-		(at 105.41 99.06 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6a306a4b-d8dd-44ea-a058-82f81b707812")
-	)
-	(label "OLED_DC"
-		(at 118.11 104.14 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6d154cfc-ef7c-4526-b870-b90170081332")
-	)
 	(label "ROW2"
 		(at 140.97 124.46 0)
 		(effects
@@ -2550,16 +2754,6 @@
 			(justify left bottom)
 		)
 		(uuid "7046a4bd-4eba-4d84-997e-83856bd40f5c")
-	)
-	(label "ROW2"
-		(at 105.41 104.14 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "743adb52-93a8-4713-9ba6-a3e73239aa54")
 	)
 	(label "ROW2"
 		(at 171.45 124.46 0)
@@ -2581,26 +2775,6 @@
 		)
 		(uuid "7ef48aa9-9d64-4470-835b-33b97747b67a")
 	)
-	(label "GND"
-		(at 135.89 54.61 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8549a738-b625-441b-8b16-922f9473de1a")
-	)
-	(label "RAW"
-		(at 105.41 88.9 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "859437f0-9dad-48d6-bed7-e83280cd6b33")
-	)
 	(label "ROW1"
 		(at 156.21 102.87 0)
 		(effects
@@ -2610,16 +2784,6 @@
 			(justify left bottom)
 		)
 		(uuid "8762204e-09c3-4912-9303-65c3f01d36a3")
-	)
-	(label "COL1"
-		(at 105.41 109.22 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "892d4492-a2ff-4284-b4c8-d5e5e3a4bbc0")
 	)
 	(label "ROW1"
 		(at 171.45 102.87 0)
@@ -2641,16 +2805,6 @@
 		)
 		(uuid "8baf7203-9ff7-4494-a998-9b35d2452d4c")
 	)
-	(label "OLED_DC"
-		(at 135.89 64.77 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8e1d3109-9c1a-4ee5-952b-f20657dbfe9f")
-	)
 	(label "COL2"
 		(at 171.45 113.03 0)
 		(effects
@@ -2671,16 +2825,6 @@
 		)
 		(uuid "91e0fc47-e3d3-435e-a0e6-26aba3f30edd")
 	)
-	(label "ROW1"
-		(at 105.41 101.6 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "94b63bdf-af2a-4e60-8991-c4ac473ca61b")
-	)
 	(label "VCC"
 		(at 146.05 48.26 0)
 		(effects
@@ -2690,26 +2834,6 @@
 			(justify left bottom)
 		)
 		(uuid "9507e51b-1da8-4939-9329-3b9b2f4edacc")
-	)
-	(label "OLED_RST"
-		(at 135.89 67.31 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9f3a08a3-944d-4b40-b1f0-645606a46161")
-	)
-	(label "COL0"
-		(at 105.41 106.68 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a126b992-8729-4527-bfeb-d982900e15c4")
 	)
 	(label "ROW0"
 		(at 156.21 81.28 0)
@@ -2730,16 +2854,6 @@
 			(justify left bottom)
 		)
 		(uuid "a833e0a0-e8d1-46ab-afd2-3d31ef07f48c")
-	)
-	(label "OLED_CLK"
-		(at 135.89 59.69 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a95bc344-3077-4f56-80c4-80e474e723fc")
 	)
 	(label "COL3"
 		(at 186.69 113.03 0)
@@ -2791,36 +2905,6 @@
 		)
 		(uuid "bc480733-f31f-42cb-ad82-a64d200385c4")
 	)
-	(label "OLED_MOSI"
-		(at 135.89 57.15 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c0094c28-e121-4e7d-9d90-d60e7c818c3d")
-	)
-	(label "OLED_CS"
-		(at 135.89 62.23 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c8cdb3a0-6366-44ca-ad83-3ee9d2f1fcdf")
-	)
-	(label "COL2"
-		(at 105.41 111.76 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "cfecf45a-9cc3-44c3-bb96-93a590295e59")
-	)
 	(label "COL0"
 		(at 140.97 91.44 0)
 		(effects
@@ -2830,26 +2914,6 @@
 			(justify left bottom)
 		)
 		(uuid "d145b648-329e-430f-bbca-4ea1376b8c45")
-	)
-	(label "OLED_RST"
-		(at 118.11 106.68 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d155baba-263f-4294-8e81-533334c9a0d8")
-	)
-	(label "RST"
-		(at 105.41 93.98 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d2233d06-4830-49c6-9344-d6efa8623dff")
 	)
 	(label "COL0"
 		(at 140.97 113.03 0)
@@ -2861,16 +2925,6 @@
 		)
 		(uuid "d6bb48e1-f769-4f55-878e-244614afbe4c")
 	)
-	(label "GND"
-		(at 118.11 88.9 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "daa090be-04a0-433e-a17e-5d60a121bb5a")
-	)
 	(label "COL1"
 		(at 156.21 91.44 0)
 		(effects
@@ -2880,37 +2934,6 @@
 			(justify left bottom)
 		)
 		(uuid "daae47d1-7d8c-444e-8480-89c6a9b04195")
-	)
-	(label "COL3"
-		(at 105.41 114.3 0)
-		(effects
-			(font
-				(face "STIX Two Math")
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e014ebff-9a1e-47d0-95fa-16a80fa7468a")
-	)
-	(label "VCC"
-		(at 105.41 96.52 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e846db59-e02d-4dfe-a990-c3e54658b23d")
-	)
-	(label "ENC_A"
-		(at 105.41 116.84 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ea0b8892-a057-443d-b90e-86e7c7960a14")
 	)
 	(label "COL2"
 		(at 171.45 91.44 0)
@@ -2932,26 +2955,6 @@
 		)
 		(uuid "ed2f7d71-02f0-4669-91de-5eada2ccdecf")
 	)
-	(label "ENC_B"
-		(at 118.11 91.44 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ed4c5e1e-0ec3-403f-8acf-40547a9e2660")
-	)
-	(label "GND"
-		(at 105.41 91.44 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ef6c4142-5303-4234-b38b-dac88ba1a6a6")
-	)
 	(label "GND"
 		(at 124.46 66.04 0)
 		(effects
@@ -2961,16 +2964,6 @@
 			(justify left bottom)
 		)
 		(uuid "f169a62c-6f7c-483b-8ed2-3c4d5b158ca0")
-	)
-	(label "VCC"
-		(at 135.89 52.07 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f677eb12-1c77-4390-a3a2-5a07e81a49dd")
 	)
 	(label "ENC_B"
 		(at 120.65 72.39 0)
@@ -3106,7 +3099,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x12_P2.54mm_Vertical"
+		(property "Footprint" "Package_DIP:DIP-24_W15.24mm"
 			(at 110.49 101.6 0)
 			(hide yes)
 			(show_name no)
