@@ -17,7 +17,7 @@
 | [Plum axis rotary encoder](https://www.aliexpress.com/item/1005008500548926.html) | Zoom/scroll/volume control | 1 | $3.59 | $3.59 | [Aliexpress](https://www.aliexpress.com/item/1005008500548926.html) |
 | [PCB](https://cart.jlcpcb.com/) | Circuit board | 1 | $4.00 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$17.67** | — |
-| **Tax & shipping** | — | — | — | **$9.60** | — |
-| **Total** | — | — | — | **$27.27** | — |
+| **Tax & shipping** | — | — | — | **$9.00** | — |
+| **Total** | — | — | — | **$26.67** | — |
 
-$2.73 left of the tier's funding.
+$3.33 left of the tier's funding.
