@@ -16,7 +16,7 @@
 | [Outemu Switches](https://www.aliexpress.com/item/1005007345651159.html) | Key switches | 1 | $5.69 | $5.69 | [Aliexpress](https://www.aliexpress.com/item/1005007345651159.html) |
 | [Plum axis rotary encoder](https://www.aliexpress.com/item/1005008500548926.html) | Zoom/scroll/volume control | 1 | $3.59 | $3.59 | [Aliexpress](https://www.aliexpress.com/item/1005008500548926.html) |
 | **Parts subtotal** | — | — | — | **$13.67** | — |
-| **Tax & shipping** | — | — | — | **$0.60** | — |
-| **Total** | — | — | — | **$14.27** | — |
+| **Tax & shipping** | — | — | — | **$9.60** | — |
+| **Total** | — | — | — | **$23.27** | — |
 
-$15.73 left of the tier's funding.
+$6.73 left of the tier's funding.
