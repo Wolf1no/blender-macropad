@@ -1,4 +1,5 @@
 <img width="1563" height="1026" alt="Screenshot 2026-10-12 at 4 51 22 AM" src="https://github.com/user-attachments/assets/53cdb34c-b60b-4788-89b2-5796013c21a6" />
+<img width="2560" height="1440" alt="Screenshot 2026-10-12 at 2 42 17 AM" src="https://github.com/user-attachments/assets/ffb3426d-723b-4387-9f4e-d0d61c9ba635" />
 
 # Blender Macropad
 
